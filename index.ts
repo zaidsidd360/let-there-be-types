@@ -1,4 +1,4 @@
-
+let gg = "bigman"
 
 const sayHelloTo = (name: string) => {
     console.log(`Hello ${name}!`);

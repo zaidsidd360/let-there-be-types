@@ -1,3 +1,4 @@
+var gg = "bigman";
 var sayHelloTo = function (name) {
     console.log("Hello ".concat(name, "!"));
 };
